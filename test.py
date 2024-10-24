@@ -1,4 +1,4 @@
-from src.logger.logging import logging
+from src.logger.loggingg import logging
 
 logging.info("this is myb testing")
 
